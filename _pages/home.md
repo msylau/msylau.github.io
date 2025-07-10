@@ -20,12 +20,12 @@ The **Lau Lab** harnesses the power of statistics and machine learning to uncove
   <style>
     .carousel-inner .item img {
       width: 100%;
-      height: 400px;     /* You can adjust this */
+      height: 550px;     /* You can adjust this */
       object-fit: cover; /* Keeps images uniformly sized and cropped */
     }
 
     .carousel-inner {
-      height: 400px; /* Match the image height */
+      height: 550px; /* Match the image height */
     }
   </style>
 </head>
@@ -44,19 +44,19 @@ The **Lau Lab** harnesses the power of statistics and machine learning to uncove
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/spatialtemporal.jpeg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/spatiaotemporal.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/nns.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/nns.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/phylo.jpeg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/phylo.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/spatialtemporal.jpeg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/spatiotemporal.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/phylo.jpeg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/phylo.png" alt="Slide 5" />
         </div>       
 
     </div>
