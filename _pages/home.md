@@ -16,7 +16,6 @@ The **Lau Lab** harnesses the power of statistics and machine learning to uncove
 **Email:** *msy.lau at emory dot edu*
 	
   <head>
-  ...
   <style>
     .carousel-inner .item img {
       width: 100%;
