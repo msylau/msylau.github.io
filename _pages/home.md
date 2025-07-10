@@ -6,11 +6,11 @@ sitemap: false
 permalink: /
 ---
 
-The Lau Lab harnesses the power of statistics and machine learning to uncover the hidden dynamics of infectious disease spread in space and time. We build innovative models and novel algorithms that blend statistical theory, computational methods, and AI to inform outbreak response, guide public health decisions, and drive scientific discovery. Our work lives at the crossroads of statistics, computer science, epidemiology, applied mathematics, and evolutionary biology. From phylodynamic models that trace viral evolution to interpretable deep learning tools for real-time forecasting, we tackle complex challenges in epidemic modeling. Based in the Department of Biostatistics and Bioinformatics at Emory University, our lab thrives on interdisciplinary collaboration and a shared mission to transform data into actionable insight for global health.
+The **Lau Lab** harnesses the power of statistics and machine learning to uncover the hidden dynamics of infectious disease spread in space and time. We build innovative models and novel algorithms that blend statistical theory, computational methods, and AI to inform outbreak response, guide public health decisions, and drive scientific discovery. Our work lives at the crossroads of statistics, computer science, epidemiology, applied mathematics, and evolutionary biology. From phylodynamic models that trace viral evolution to interpretable deep learning tools for real-time forecasting, we tackle complex challenges in epidemic modeling. Based in the Department of Biostatistics and Bioinformatics at Emory University, our lab thrives on interdisciplinary collaboration and a shared mission to transform data into actionable insight for global health.
 
-**PI: Dr. Max Lau**
+**PI:** Dr. Max Lau
 
-**Email:msy.lau at emory dot edu**
+**Email:** msy.lau at emory dot edu
 	
   
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
