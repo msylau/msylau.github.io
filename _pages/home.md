@@ -10,7 +10,7 @@ The **Lau Lab** harnesses the power of statistics and machine learning to uncove
 
 **PI:** Dr. Max Lau
 
-**Email:** msy.lau at emory dot edu
+**Email:** *msy.lau at emory dot edu*
 	
   
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
