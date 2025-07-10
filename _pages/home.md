@@ -1,18 +1,12 @@
 ---
-title: "Allan Lab - Home"
+title: "Lau Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Lau Lab at Emory University &rarr."
 sitemap: false
 permalink: /
 ---
 
-**News: Our group moved to the University of Munich (LMU)!** Join us! 
-
-We are a dynamic research group at [LMU physics](https://www.physik.lmu.de/en/index.html) and at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl/). 
-
-We have two overarching goals: first, 
-**to understand quantum materials**, including strange metals, high-temperature superconductors, and quantum critical electron matter. Second, **to make novel and useful materials** that never existed before, like possible room-temperature superconductors. 
-To achieve these goals, we develop new quantum sensing and quantum imaging instrumentation to obtain the key quantum mechanical degrees of freedom. We want to build the perfect instruments to answer the scientific questions we deem most important. 
+The Lau Lab harnesses the power of statistics and machine learning to uncover the hidden dynamics of infectious disease spread. We build innovative models that blend statistical theory, computational methods, and AI to inform outbreak response, guide public health decisions, and drive scientific discovery. Our work lives at the crossroads of statistics, computer science, epidemiology, applied mathematics, and evolutionary biology. From phylodynamic models that trace viral evolution to interpretable deep learning tools for real-time forecasting, we tackle complex challenges in epidemic modeling. Based in the Department of Biostatistics and Bioinformatics at Emory University, our lab thrives on interdisciplinary collaboration and a shared mission to transform data into actionable insight for global health.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -60,7 +54,7 @@ To achieve these goals, we develop new quantum sensing and quantum imaging instr
 
 We are currently building up our instruments right in the center of Munich, in the *Sommerfeldkeller*, where Sommerfeld and Röntgen worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials. We are also a proud member of the [SuperC consortium](https://superc2033.com/our-team/).
 
-**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://www.allanlab.org/vacancies) **!**
+**We are looking for passionate new PhD students, Postdocs, and Master students to join the team !**
 
 
 
