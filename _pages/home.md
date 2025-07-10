@@ -15,7 +15,22 @@ The **Lau Lab** harnesses the power of statistics and machine learning to uncove
 
 **Email:** *msy.lau at emory dot edu*
 	
-  
+  <head>
+  ...
+  <style>
+    .carousel-inner .item img {
+      width: 100%;
+      height: 400px;     /* You can adjust this */
+      object-fit: cover; /* Keeps images uniformly sized and cropped */
+    }
+
+    .carousel-inner {
+      height: 400px; /* Match the image height */
+    }
+  </style>
+</head>
+
+
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
