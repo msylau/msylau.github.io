@@ -60,6 +60,6 @@ The Lau Lab harnesses the power of statistics and machine learning to uncover th
 
 <figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/emory.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/bios.ong" style="width: 130px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/bios.png" style="width: 130px">
 
 </figure>
