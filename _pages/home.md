@@ -52,8 +52,6 @@ The Lau Lab harnesses the power of statistics and machine learning to uncover th
 </div>
 
 
-We are currently building up our instruments right in the center of Munich, in the *Sommerfeldkeller*, where Sommerfeld and Röntgen worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials. We are also a proud member of the [SuperC consortium](https://superc2033.com/our-team/).
-
 **We are looking for passionate new PhD students, Postdocs, and Master students to join the team !**
 
 
