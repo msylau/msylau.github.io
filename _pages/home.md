@@ -20,12 +20,12 @@ The **Lau Lab** harnesses the power of statistics and machine learning to uncove
   <style>
     .carousel-inner .item img {
       width: 100%;
-      height: 550px;     /* You can adjust this */
+      height: 400px;     /* You can adjust this */
       object-fit: cover; /* Keeps images uniformly sized and cropped */
     }
 
     .carousel-inner {
-      height: 550px; /* Match the image height */
+      height: 400px; /* Match the image height */
     }
   </style>
 </head>
@@ -44,7 +44,7 @@ The **Lau Lab** harnesses the power of statistics and machine learning to uncove
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/spatiaotemporal.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/spatiotemporal.png" alt="Slide 1" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/nns.png" alt="Slide 2" />
