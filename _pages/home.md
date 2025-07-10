@@ -61,7 +61,7 @@ We are currently building up our instruments right in the center of Munich, in t
 
 
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Emory.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/BIOS.ong" style="width: 130px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/emory.png" style="width: 130px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/bios.ong" style="width: 130px">
 
 </figure>
