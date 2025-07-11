@@ -10,7 +10,7 @@ permalink: /team/
 
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-Jump to [PhD and Postdoc](#phd-postdoc), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [PhD and Postdoc](#phd-postdoc), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni).
 
 ## PhD and Postdoc
 {% assign number_printed = 0 %}
@@ -164,15 +164,9 @@ Jump to [PhD and Postdoc](#phd-postdoc), [master and bachelor students](#master-
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
+## Former BSc/ MSc students
 <div class="row">
 
-<div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
-</div>
 
 <div class="col-sm-4 clearfix">
 <h4>Master students</h4>
@@ -189,7 +183,3 @@ Jump to [PhD and Postdoc](#phd-postdoc), [master and bachelor students](#master-
 </div>
 
 </div>
-
-
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
