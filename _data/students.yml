@@ -1,6 +1,6 @@
-#- name:
+- name: Lejun Shen
 #  photo: rock.jpg
-#  info:
+  info: Current MSPH (Biostatistics) student
 #  email:
 #  number_educ:
 #  education1:
@@ -8,4 +8,14 @@
 #  education3:
 #  education4:
 
+
+- name: Jacky An
+#  photo: rock.jpg
+  info: Current undergraduate (QTM and applied maths) student
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
 
