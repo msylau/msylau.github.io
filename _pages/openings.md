@@ -29,5 +29,5 @@ I welcome opportunities to work with undergraduate students who have a strong qu
 
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Come-Join-Us.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Come-Join-Us.jpg" width="50%">
 </figure>
