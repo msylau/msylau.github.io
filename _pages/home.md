@@ -8,19 +8,11 @@ permalink: /
 
 <!-- PI block -->
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+	
   <img src="/images/teampic/max.jpeg" alt="Max Lau"
        style="width: 120px; height: 120px; border-radius: 50%; margin-right: 15px; border: 2px solid #ccc;">
-  
-  <div>
-    <h2 style="margin: 0;">Dr. Max Lau</h2>
-    <p style="margin: 0;">
-      Assistant Professor, Biostatistics and Bioinformatics<br>
-      Emory University
-    </p>
-  </div>
 </div>
 
-<br>
 
 **We are looking for passionate new PhD students, Postdocs, and Master students to join the team!**
 
