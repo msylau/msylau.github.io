@@ -5,7 +5,6 @@ excerpt: "Lau Lab at Emory University &rarr."
 sitemap: false
 permalink: /
 ---
-{% raw %}
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/max.jpeg" alt="Max Lau"
        style="width: 120px; height: 120px; border-radius: 50%; margin-right: 15px; border: 2px solid #ccc;">
@@ -17,8 +16,6 @@ permalink: /
     </p>
   </div>
 </div>
-{% endraw %}
-
 
 **We are looking for passionate new PhD students, Postdocs, and Master students to join the team!**
 
