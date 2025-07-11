@@ -4,7 +4,6 @@ layout: gridlay
 excerpt: "Lau Lab -- Publications."
 sitemap: false
 permalink: /publications/
-hide_in_nav: true # do not show this option on home page when true
 ---
 
 
