@@ -11,7 +11,7 @@ permalink: /
 <img src="/images/teampic/max.jpeg" alt="Max Lau"
 style="width: 120px; height: 120px; border-radius: 50%; margin-right: 15px; border: 2px solid #ccc;">
 <div>
-<h2 style="margin: 0;">Dr. Max Lau</h2>
+<h2 style="margin: 0;">Max Lau</h2>
 <p style="margin: 0;">
 Assistant Professor, Biostatistics and Bioinformatics<br>
 Emory University
