@@ -12,8 +12,7 @@ permalink: /
 <div>
     <h2 style="margin: 0;">Dr. Max Lau</h2>
     <p style="margin: 0;">
-      Assistant Professor, Biostatistics and Bioinformatics<br>
-      Emory University
+      Assistant Professor, Biostatistics and Bioinformatics, Emory University<br>
     </p>
 </div>
 </div>
