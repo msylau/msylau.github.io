@@ -3,10 +3,17 @@
   info: Postdoc, started Aug 2025
   email: leke.lyu@emory.edu
   number_educ: 2
-  education1: Sichuan University (Undergraduate, Biology & Software Engineering)
+  education1: Sichuan University (Undergraduate, Biological Sciences & Software Engineering)
   education2: University of Georgia (PhD, Bioinformatics)
 
-
+- name: Wyatt Madden (co-advised)
+  photo: wyatt.jpeg
+  info: PhD (co-advised), since 2023
+  email: wyatt.madden@emory.edu
+  number_educ: 2
+  education1: UCSC (Undergraduate, Econ and Maths)
+  education2: Montana State (Ms, Statistics)
+  
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
