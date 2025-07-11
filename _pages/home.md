@@ -6,7 +6,8 @@ sitemap: false
 permalink: /
 ---
 
-<div style="display: flex; align-items: center; margin-top: 20px;">
+<!-- Profile image + title block -->
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/max.jpeg" alt="Max Lau"
        style="width: 120px; height: 120px; border-radius: 50%; margin-right: 15px; border: 2px solid #ccc;">
   <div>
