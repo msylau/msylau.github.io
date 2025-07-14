@@ -1,7 +1,7 @@
 ---
-title: "Max Lau - Home"
+title: "Max Lau @ Emory"
 layout: homelay
-excerpt: "Max Lau at Emory University &rarr."
+excerpt: " Lau Lab at Emory University &rarr."
 sitemap: false
 permalink: /
 ---
