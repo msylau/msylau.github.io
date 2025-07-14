@@ -1,5 +1,5 @@
 ---
-title: "Max Lau @ Emory"
+title: "Lau Lab @ Emory"
 layout: homelay
 excerpt: " Lau Lab at Emory University &rarr."
 sitemap: false
