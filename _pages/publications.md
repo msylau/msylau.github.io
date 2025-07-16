@@ -10,41 +10,19 @@ permalink: /publications/
 # Publications
 
 
-{% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
+<h1>Publications</h1>
 
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
- </div>
+<div id="pub-list">
+  {% for pub in site.data.publications %}
+    <div class="pub-item" data-year="{{ pub.year }}" data-tags="{{ pub.tags | join: ',' }}">
+      <strong>{{ pub.title }}</strong><br>
+      <em>{{ pub.authors }}</em><br>
+      <span>{{ pub.journal }}, {{ pub.year }}</span><br>
+      {% if pub.link %}
+        <a href="{{ pub.link }}" target="_blank">[Link]</a>
+      {% endif %}
+      <br><br>
+    </div>
+  {% endfor %}
 </div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endif %}
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-<p> &nbsp; </p>
-
