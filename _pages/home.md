@@ -57,7 +57,7 @@ The **Lau Lab** harnesses the power of statistics and machine learning to uncove
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/spatiotemporal.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/spatiotemporal2.png" alt="Slide 1" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/phylo.png" alt="Slide 2" />
@@ -66,7 +66,7 @@ The **Lau Lab** harnesses the power of statistics and machine learning to uncove
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/nns_2.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/spatiotemporal.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/spatiotemporal2.png" alt="Slide 4" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/phylo.png" alt="Slide 5" />
