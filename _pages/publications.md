@@ -6,24 +6,16 @@ sitemap: false
 permalink: /publications/
 ---
 
-
 # Publications
 
-{% raw %}
-
-
-<div id="pub-list">
-  {% for pub in site.data.publist %}
-    <div class="pub-item" data-year="{{ pub.year }}" data-tags="{{ pub.tags | join: ',' }}">
-      <strong>{{ pub.title }}</strong><br>
-      <em>{{ pub.authors }}</em><br>
-      <span>{{ pub.journal }}, {{ pub.year }}</span><br>
-      {% if pub.link %}
-        <a href="{{ pub.link }}" target="_blank">[Link]</a>
-      {% endif %}
-      <br><br>
-    </div>
-  {% endfor %}
+{% for pub in site.data.publist %}
+<div class="pub-item" data-year="{{ pub.year }}" data-tags="{{ pub.tags | join: ',' }}">
+  <strong>{{ pub.title }}</strong><br>
+  <em>{{ pub.authors }}</em><br>
+  {{ pub.journal }}, {{ pub.year }}<br>
+  {% if pub.link %}
+    <a href="{{ pub.link }}" target="_blank">[Link]</a>
+  {% endif %}
+  <br><br>
 </div>
-
-{% endraw %}
+{% endfor %}
