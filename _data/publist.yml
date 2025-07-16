@@ -111,3 +111,20 @@
   type: "journal"
   tags: ["Bayesian", "integration"]
 
+  - title: "Inferring influenza dynamics and control in households"
+  authors: "Lau, M. S. Y., Cowling, B. J., Cook, A. R., & Riley, S."
+  year: 2015
+  journal: "Proceedings of the National Academy of Sciences"
+  link: "https://doi.org/10.1073/pnas.1423339112"
+  type: "journal"
+  tags: ["influenza", "household transmission"]
+
+- title: "New model diagnostics for spatio-temporal systems in epidemiology and ecology"
+  authors: "Lau, M. S. Y., Marion, G., Streftaris, G., & Gibson, G. J."
+  year: 2014
+  journal: "Journal of The Royal Society Interface"
+  link: "https://doi.org/10.1098/rsif.2013.1093"
+  type: "journal"
+  tags: ["model diagnostics", "spatiotemporal"]
+
+
