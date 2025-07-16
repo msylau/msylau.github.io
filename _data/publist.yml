@@ -1,3 +1,11 @@
+- title: "Deep neural networks for endemic measles dynamics: Comparative analysis and integration with mechanistic models"
+  authors: "Madden, W. G., Jin, W., Lopman, B., Zufle, A., Dalziel, B., Metcalf, C. J. E., Grenfell, B. T., & Lau, M. S. Y."
+  year: 2024
+  journal: "PLOS Computational Biology"
+  link: ""
+  type: "journal"
+  tags: ["measles", "deep learning"]
+
 - title: "A review of graph neural networks in epidemic modeling"
   authors: "Liu, Z., Wan, G., Prakash, B. A., Lau, M. S. Y., & Jin, W."
   year: 2024
@@ -14,13 +22,7 @@
   type: "journal"
   tags: ["influenza", "within-host"]
 
-- title: "Deep neural networks for endemic measles dynamics: Comparative analysis and integration with mechanistic models"
-  authors: "Madden, W. G., Jin, W., Lopman, B., Zufle, A., Dalziel, B., Metcalf, C. J. E., Grenfell, B. T., & Lau, M. S. Y."
-  year: 2024
-  journal: "PLOS Computational Biology"
-  link: ""
-  type: "journal"
-  tags: ["measles", "deep learning"]
+
 
 - title: "A plasma metabolic signature to diagnose pulmonary tuberculosis and monitor treatment response"
   authors: "Collins, J. M., Bobosha, K., Narayanan, N., Gandhi, N. R., Day, C. L., Rengarajan, J., ... Lau, M. S. Y., ... & Wassie, L."
