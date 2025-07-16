@@ -10,7 +10,6 @@ permalink: /publications/
 # Publications
 
 {% raw %}
-{% for pub in site.data.publist %}
 
 
 <div id="pub-list">
@@ -27,5 +26,4 @@ permalink: /publications/
   {% endfor %}
 </div>
 
-{% endfor %}
 {% endraw %}
