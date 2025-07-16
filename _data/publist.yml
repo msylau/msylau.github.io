@@ -1,24 +1,71 @@
-- title: "Characterizing superspreading events and age-specific infectiousness of SARS-CoV-2 transmission in Georgia, USA"
-  authors: "Lau, M. S. Y., Grenfell, B., Thomas, M., Bryan, M., Nelson, K., Lopman, B."
-  year: 2020
-  journal: "Proceedings of the National Academy of Sciences"
-  link: "https://doi.org/10.1073/pnas.2009302117"
+- title: "A review of graph neural networks in epidemic modeling"
+  authors: "Liu, Z., Wan, G., Prakash, B. A., Lau, M. S. Y., & Jin, W."
+  year: 2024
+  journal: "Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining"
+  link: ""
+  type: "conference"
+  tags: ["GNN", "epidemics"]
+
+- title: "Genetic drift and purifying selection shape within-host influenza A virus populations during natural swine infections"
+  authors: "VanInsberghe, D., McBride, D. S., DaSilva, J., Stark, T. J., Lau, M. S. Y., Shepard, S. S., & Koelle, K."
+  year: 2024
+  journal: "PLOS Pathogens"
+  link: ""
   type: "journal"
-  tags: ["COVID-19", "superspreading"]
+  tags: ["influenza", "within-host"]
 
 - title: "Deep neural networks for endemic measles dynamics: Comparative analysis and integration with mechanistic models"
-  authors: "Madden, W. G., Jin, W., Lopman, B., Zufle, A., Dalziel, B., Metcalf, C. J. E., Grenfell, B. T., Lau, M. S. Y."
+  authors: "Madden, W. G., Jin, W., Lopman, B., Zufle, A., Dalziel, B., Metcalf, C. J. E., Grenfell, B. T., & Lau, M. S. Y."
   year: 2024
-  journal: "PLOS Computational Biology"
-  link: "https://doi.org/10.1371/journal.pcbi.1012616"
-  type: "journal"
-  tags: ["measles", "machine learning"]
-
-- title: "ScITree: Scalable Bayesian inference of transmission tree from epidemiological and genomic data"
-  authors: "Waddel, H., Koelle, K., Lau, M. S. Y."
-  year: 2025
   journal: "PLOS Computational Biology"
   link: ""
   type: "journal"
-  tags: ["Bayesian", "genomics", "transmission tree"]
+  tags: ["measles", "deep learning"]
 
+- title: "A plasma metabolic signature to diagnose pulmonary tuberculosis and monitor treatment response"
+  authors: "Collins, J. M., Bobosha, K., Narayanan, N., Gandhi, N. R., Day, C. L., Rengarajan, J., ... Lau, M. S. Y., ... & Wassie, L."
+  year: 2025
+  journal: "The Journal of Infectious Diseases"
+  link: ""
+  type: "journal"
+  tags: ["tuberculosis", "metabolomics"]
+
+- title: "Efficient Epidemic Intervention Generation: A Graph Adversarial Attack Perspective"
+  authors: "Li, Y., Wei, M., Liu, Z., Lau, M. S. Y., & Jin, W."
+  year: 2025
+  journal: "Companion Proceedings of the ACM on Web Conference 2025"
+  link: ""
+  type: "conference"
+  tags: ["intervention", "graph models"]
+
+- title: "Controlling the Spread of Livestock Diseases with the Help of Stochastic Models"
+  authors: "Lau, M. S. Y., Firestone, S., Streftaris, G., Marion, G., Burroughs, A., & Gibson, G."
+  year: 2025
+  journal: "More UK Success Stories in Industrial Mathematics"
+  link: ""
+  type: "book"
+  tags: ["livestock", "stochastic models"]
+
+- title: "ScITree: Scalable Bayesian inference of transmission tree from epidemiological and genomic data"
+  authors: "Waddel, H., Koelle, K., & Lau, M. S. Y."
+  year: 2025
+  journal: "PLOS Computational Biology (In Press)"
+  link: ""
+  type: "journal"
+  tags: ["Bayesian", "transmission tree"]
+
+- title: "Epidemiology-aware neural ODE with continuous disease transmission graph"
+  authors: "Wan, G., Liu, Z., Lau, M. S. Y., Prakash, B. A., & Jin, W."
+  year: 2024
+  journal: "arXiv preprint arXiv:2410.00049"
+  link: "https://doi.org/10.48550/arXiv.2410.00049"
+  type: "preprint"
+  tags: ["neural ODE", "transmission"]
+
+- title: "CAPE: Covariate-adjusted pre-training for epidemic time series forecasting"
+  authors: "Liu, Z., Ni, J., Lau, M. S. Y., & Jin, W."
+  year: 2025
+  journal: "arXiv preprint arXiv:2502.03393"
+  link: "https://doi.org/10.48550/arXiv.2502.03393"
+  type: "preprint"
+  tags: ["forecasting", "pretraining"]
