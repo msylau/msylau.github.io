@@ -6,7 +6,7 @@ sitemap: false
 permalink: /publications/
 ---
 
-# Publications
+# Recent Publications
 
 {% for pub in site.data.publist %}
 <div class="pub-item" data-year="{{ pub.year }}" data-tags="{{ pub.tags | join: ',' }}">
