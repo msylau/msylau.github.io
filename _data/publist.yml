@@ -29,8 +29,8 @@
 
 - title: "Epidemiology-aware neural ODE with continuous disease transmission graph"
   authors: "Wan, G., Liu, Z., Lau, M. S. Y., Prakash, B. A., & Jin, W."
-  year: 2024
-  journal: "International Conference on Machine Learning (ICML), 2025"
+  year: 2025
+  journal: "International Conference on Machine Learning (ICML)"
   type: "conference"
   tags: ["neural ODE", "transmission"]
 
