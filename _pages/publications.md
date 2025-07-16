@@ -10,9 +10,6 @@ permalink: /publications/
 # Publications
 
 
-
-<h1>Publications</h1>
-
 <div id="pub-list">
   {% for pub in site.data.publications %}
     <div class="pub-item" data-year="{{ pub.year }}" data-tags="{{ pub.tags | join: ',' }}">
