@@ -77,3 +77,37 @@
   link: "https://doi.org/10.1038/s41559-018-0630-0"
   type: "journal"
   tags: ["vaccination", "uncertainty"]
+
+
+- title: "Unreported cases in the 2014–2016 Ebola epidemic: Spatiotemporal variation and implications for estimating transmission"
+  authors: "Dalziel, B. D., Lau, M. S. Y., Tiffany, A., McClelland, A., Zelner, J., Bliss, J. R., & Grenfell, B. T."
+  year: 2018
+  journal: "PLOS Neglected Tropical Diseases"
+  link: "https://doi.org/10.1371/journal.pntd.0006161"
+  type: "journal"
+  tags: ["Ebola", "underreporting"]
+
+- title: "Spatial and temporal dynamics of superspreading events in the 2014–2015 West Africa Ebola epidemic"
+  authors: "Lau, M. S. Y., Dalziel, B. D., Funk, S., McClelland, A., Tiffany, A., Riley, S., Metcalf, C. J. E., & Grenfell, B. T."
+  year: 2017
+  journal: "Proceedings of the National Academy of Sciences"
+  link: "https://doi.org/10.1073/pnas.1614595114"
+  type: "journal"
+  tags: ["Ebola", "superspreading"]
+
+- title: "A mechanistic spatio-temporal framework for modeling individual-to-individual transmission—With an application to the 2014–2015 West Africa Ebola outbreak"
+  authors: "Lau, M. S. Y., Gibson, G. J., Adrakey, H., McClelland, A., Riley, S., Zelner, J., Streftaris, G., Funk, S., Metcalf, C. J. E., Dalziel, B. D., & Grenfell, B. T."
+  year: 2017
+  journal: "PLOS Computational Biology"
+  link: "https://doi.org/10.1371/journal.pcbi.1005798"
+  type: "journal"
+  tags: ["Ebola", "individual transmission"]
+
+- title: "A systematic Bayesian integration of epidemiological and genetic data"
+  authors: "Lau, M. S. Y., Marion, G., Streftaris, G., & Gibson, G."
+  year: 2015
+  journal: "PLOS Computational Biology"
+  link: "https://doi.org/10.1371/journal.pcbi.1004633"
+  type: "journal"
+  tags: ["Bayesian", "integration"]
+
