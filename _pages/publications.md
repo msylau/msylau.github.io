@@ -11,7 +11,7 @@ permalink: /publications/
 
 
 <div id="pub-list">
-  {% for pub in site.data.publications %}
+  {% for pub in site.data.publist %}
     <div class="pub-item" data-year="{{ pub.year }}" data-tags="{{ pub.tags | join: ',' }}">
       <strong>{{ pub.title }}</strong><br>
       <em>{{ pub.authors }}</em><br>
