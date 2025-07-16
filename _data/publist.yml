@@ -16,8 +16,8 @@
 - title: "Efficient Epidemic Intervention Generation: A Graph Adversarial Attack Perspective"
   authors: "Li, Y., Wei, M., Liu, Z., Lau, M. S.Y., & Jin, W."
   year: 2025
-  journal: "Companion Proceedings of the ACM on Web Conference 2025"
-  type: "conference"
+  journal: "Companion Proceedings of the ACM on Web Conference 2025 (Workshop)"
+  type: "Workshop"
   tags: ["intervention", "graph models"]
 
 - title: "CAPE: Covariate-adjusted pre-training for epidemic time series forecasting"
@@ -30,7 +30,7 @@
 - title: "Epidemiology-aware neural ODE with continuous disease transmission graph"
   authors: "Wan, G., Liu, Z., Lau, M. S. Y., Prakash, B. A., & Jin, W."
   year: 2024
-  journal: "ICML 2025"
+  journal: "International Conference on Machine Learning (ICML), 2025"
   type: "conference"
   tags: ["neural ODE", "transmission"]
 
