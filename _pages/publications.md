@@ -14,8 +14,10 @@ permalink: /publications/
   <em>{{ pub.authors }}</em><br>
   {{ pub.journal }}, {{ pub.year }}<br>
   {% if pub.link %}
-    <a href="{{ pub.link }}" target="_blank">[Link]</a>
+  <a href="{{ pub.link }}" target="_blank">[Link]</a>
   {% endif %}
   <br><br>
 </div>
 {% endfor %}
+
+
