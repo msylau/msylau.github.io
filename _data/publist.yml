@@ -10,7 +10,6 @@
   authors: "Collins, J. M., Bobosha, K., Narayanan, N., Gandhi, N. R., Day, C. L., Rengarajan, J., ... Lau, M.S.Y., ... & Wassie, L."
   year: 2025
   journal: "The Journal of Infectious Diseases"
-  link: "https://doi.org/10.1093/infdis/jiae123"
   type: "journal"
   tags: ["tuberculosis", "biomarkers"]
 
@@ -18,7 +17,6 @@
   authors: "Li, Y., Wei, M., Liu, Z., Lau, M. S.Y., & Jin, W."
   year: 2025
   journal: "Companion Proceedings of the ACM on Web Conference 2025"
-  link: "https://doi.org/10.1145/3487553.3524661"
   type: "conference"
   tags: ["intervention", "graph models"]
 
@@ -26,23 +24,20 @@
   authors: "Liu, Z., Ni, J., Lau, M. S. Y., & Jin, W."
   year: 2025
   journal: "arXiv preprint arXiv:2502.03393"
-  link: "https://doi.org/10.48550/arXiv.2502.03393"
   type: "preprint"
   tags: ["forecasting", "pretraining"]
 
 - title: "Epidemiology-aware neural ODE with continuous disease transmission graph"
   authors: "Wan, G., Liu, Z., Lau, M. S. Y., Prakash, B. A., & Jin, W."
   year: 2024
-  journal: "arXiv preprint arXiv:2410.00049"
-  link: "https://doi.org/10.48550/arXiv.2410.00049"
-  type: "preprint"
+  journal: "ICML 2025"
+  type: "conference"
   tags: ["neural ODE", "transmission"]
 
 - title: "Genetic drift and purifying selection shape within-host influenza A virus populations during natural swine infections"
   authors: "VanInsberghe, D., McBride, D. S., DaSilva, J., Stark, T. J., Lau, M. S. Y., Shepard, S. S., & Koelle, K."
   year: 2024
   journal: "PLOS Pathogens"
-  link: "https://doi.org/10.1371/journal.ppat.1012131"
   type: "journal"
   tags: ["influenza", "evolution"]
 
@@ -50,7 +45,7 @@
   authors: "Madden, W. G., Jin, W., Lopman, B., Zufle, A., Dalziel, B., Metcalf, C. J. E., Grenfell, B. T., & Lau, M. S. Y."
   year: 2024
   journal: "PLOS Computational Biology"
-  link: "https://doi.org/10.1371/journal.pcbi.1012616"
+  link: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012616"
   type: "journal"
   tags: ["measles", "machine learning"]
 
@@ -58,7 +53,7 @@
   authors: "Lau, M. S. Y., Grenfell, B., Thomas, M., Bryan, M., Nelson, K., & Lopman, B."
   year: 2020
   journal: "Proceedings of the National Academy of Sciences"
-  link: "https://doi.org/10.1073/pnas.2009302117"
+  link: "https://www.pnas.org/doi/10.1073/pnas.2011802117"
   type: "journal"
   tags: ["COVID-19", "superspreading"]
 
@@ -66,7 +61,6 @@
   authors: "Lau, M. S. Y., Becker, A. D., Korevaar, H. M., Caudron, Q., Shaw, D. J., Metcalf, C. J. E., Bjørnstad, O. N., & Grenfell, B. T."
   year: 2020
   journal: "Nature Ecology & Evolution"
-  link: "https://doi.org/10.1038/s41559-020-1182-9"
   type: "journal"
   tags: ["measles", "competing risks"]
 
@@ -74,7 +68,6 @@
   authors: "Lau, M. S. Y., & Grenfell, B. T."
   year: 2018
   journal: "Nature Ecology & Evolution"
-  link: "https://doi.org/10.1038/s41559-018-0630-0"
   type: "journal"
   tags: ["vaccination", "uncertainty"]
 
@@ -83,7 +76,6 @@
   authors: "Dalziel, B. D., Lau, M. S. Y., Tiffany, A., McClelland, A., Zelner, J., Bliss, J. R., & Grenfell, B. T."
   year: 2018
   journal: "PLOS Neglected Tropical Diseases"
-  link: "https://doi.org/10.1371/journal.pntd.0006161"
   type: "journal"
   tags: ["Ebola", "underreporting"]
 
