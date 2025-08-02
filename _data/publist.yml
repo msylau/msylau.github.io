@@ -67,6 +67,13 @@
   type: "journal"
   tags: ["measles", "machine learning"]
   
+- title: "Estimating the cumulative incidence of SARS-CoV-2 infection and the infection fatality ratio in light of waning antibodies"
+  authors: "Shioda, K., Lau, M. S. Y., Kraay, A. N., Nelson, K. N., Siegler, A. J., Sullivan, P. S., ... & Lopman, B. A."
+  year: 2021
+  journal: "Epidemiology"
+  type: "journal"
+  tags: ["SARS-CoV-2", "waning antibodies", "fatality"]
+
 
 - title: "Characterizing superspreading events and age-specific infectiousness of SARS-CoV-2 transmission in Georgia, USA"
   authors: "Lau, M. S. Y., Grenfell, B., Thomas, M., Bryan, M., Nelson, K., & Lopman, B."
