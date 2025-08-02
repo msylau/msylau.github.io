@@ -12,7 +12,7 @@
   year: 2025
   journal: "Epidemics"
   type: "journal"
-  tags: ["Norovirus", "Vaccines"]
+  tags: ["norovirus", "vaccines"]
 
 
 - title: "A plasma metabolic signature to diagnose pulmonary tuberculosis and monitor treatment response"
