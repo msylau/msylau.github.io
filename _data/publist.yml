@@ -58,6 +58,16 @@
   type: "journal"
   tags: ["measles", "machine learning"]
 
+
+- title: "Comparing and linking machine learning and semi-mechanistic models for the predictability of endemic measles dynamics"
+  authors: "Lau, M. S. Y., Becker, A., Madden, W., Waller, L. A., Metcalf, C. J. E., & Grenfell, B. T."
+  year: 2022
+  journal: "PLOS Computational Biology"
+  link: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010251"
+  type: "journal"
+  tags: ["measles", "machine learning"]
+  
+
 - title: "Characterizing superspreading events and age-specific infectiousness of SARS-CoV-2 transmission in Georgia, USA"
   authors: "Lau, M. S. Y., Grenfell, B., Thomas, M., Bryan, M., Nelson, K., & Lopman, B."
   year: 2020
