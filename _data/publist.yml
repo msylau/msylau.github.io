@@ -1,3 +1,4 @@
+
 - title: "ScITree: Scalable Bayesian inference of transmission tree from epidemiological and genomic data"
   authors: "Waddel, H., Koelle, K., & Lau, M. S. Y."
   year: 2025
@@ -5,6 +6,15 @@
   link: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012657"
   type: "journal"
   tags: ["Bayesian", "transmission"]
+
+- title: "Projecting the population-level impact of norovirus vaccines"
+  authors: "Koelle, K., Lappe B., Lopman B., Lau M. S. Y.,  Viscidi E.,  Carlson K. B."
+  year: 2025
+  journal: "Epidemics"
+  link: "https://www.sciencedirect.com/science/article/pii/S1755436525000301"
+  type: "journal"
+  tags: ["Norovirus", "Vaccines"
+
 
 - title: "A plasma metabolic signature to diagnose pulmonary tuberculosis and monitor treatment response"
   authors: "Collins, J. M., Bobosha, K., Narayanan, N., Gandhi, N. R., Day, C. L., Rengarajan, J., ... Lau, M.S.Y., ... & Wassie, L."
