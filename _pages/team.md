@@ -229,7 +229,7 @@ Jump to [PhD and postdoc](#phd-postdoc), [master and bachelor students](#master-
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>Undergraduate Students</h4>
+<h4>Undergraduate students</h4>
 {% for member in site.data.alumni_bsc %}
 {{ member.name }}
 {% endfor %}
