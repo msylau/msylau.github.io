@@ -164,7 +164,7 @@ Jump to [PhD and postdoc](#phd-postdoc), [master and bachelor students](#master-
 </div>
 {% endif %}
 
-## Former BSc/ MSc students
+## Former students
 <div class="row">
 
 
