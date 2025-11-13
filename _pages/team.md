@@ -77,7 +77,7 @@ Jump to [PhD and postdoc](#phd-postdoc), [master and bachelor students](#master-
 
 
 
-## Research assistant
+## Research Assistant
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -131,7 +131,7 @@ Jump to [PhD and postdoc](#phd-postdoc), [master and bachelor students](#master-
 {% endif %}
 
 
-## Other students
+## Other Students
 {% assign number_printed = 0 %}
 {% for member in site.data.other %}
 
@@ -217,7 +217,7 @@ Jump to [PhD and postdoc](#phd-postdoc), [master and bachelor students](#master-
 </div>
 {% endif %}
 
-## Former students
+## Former Students
 <div class="row">
 
 
