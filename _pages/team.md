@@ -77,7 +77,7 @@ Jump to [PhD and postdoc](#phd-postdoc), [master and bachelor students](#master-
 
 
 
-## Master and Bachelor Students
+## Research Assistant
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
