@@ -133,7 +133,7 @@ Jump to [PhD and postdoc](#phd-postdoc), [master and bachelor students](#master-
 
 ## Other students
 {% assign number_printed = 0 %}
-{% for member in site.data.students %}
+{% for member in site.data.other %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
