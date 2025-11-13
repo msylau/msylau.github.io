@@ -184,7 +184,7 @@ Jump to [PhD and postdoc](#phd-postdoc), [master and bachelor students](#master-
 </div>
 {% endif %}
 
-## Alumni
+## Alumni (PhD and Postdoc)
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
@@ -217,7 +217,7 @@ Jump to [PhD and postdoc](#phd-postdoc), [master and bachelor students](#master-
 </div>
 {% endif %}
 
-## Former Students
+## Alumni (Master and Undergraduate)
 <div class="row">
 
 
