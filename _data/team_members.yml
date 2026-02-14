@@ -13,21 +13,6 @@
   number_educ: 1
   education1: Emory University (MPH, Biostatistics)
 
-
-- name: Zewen Liu (co-advised)
-  photo: zewen.jpeg
-  info: PhD (co-advised;primarily advised by Dr. Wei Jin), since 2024
-  email: Liu, Zewen <zewen.liu@emory.edu>
-  number_educ: 1
-  education1: Jilin University (B.S., Big Data Science and Technology)
-  
-- name: Wyatt Madden (co-advised)
-  photo: wyatt.jpeg
-  info: PhD (co-advised), since 2023
-  email: wyatt.madden@emory.edu
-  number_educ: 2
-  education1: UCSC (Undergraduate, Econ and Maths)
-  education2: Montana State (Ms, Statistics)
   
 - name: "This could be you !"
   photo: rock.jpg
