@@ -1,6 +1,15 @@
+
+
+- name: Zewen Liu (co-advised)
+  info: PhD (co-advised;primarily advised by Dr. Wei Jin), since 2024
+  
+- name: Wyatt Madden (co-advised)
+  photo: wyatt.jpeg
+  info: PhD (co-advised), since 2023
+  
 - name: Susan Choi
 #  photo: rock.jpg
-  info: Current PhD (Biostatistics) student
+  info: Research Assistant, Current PhD (Biostatistics) student
 #  email:
 #  number_educ:
 #  education1:
@@ -10,7 +19,7 @@
 
 - name: Lejun Shen
 #  photo: rock.jpg
-  info: Current MSPH (Biostatistics) student
+  info: Research Assistant, Current MSPH (Biostatistics) student
 #  email:
 #  number_educ:
 #  education1:
