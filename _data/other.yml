@@ -1,12 +1,10 @@
-- name: Fiona Xiao
-#  photo: rock.jpg
-  info: Current PhD (PBEE) student
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:]
+
+- name: Zewen Liu (co-advised)
+  info: PhD (co-advised;primarily advised by Dr. Wei Jin), since 2024
+  
+- name: Wyatt Madden (co-advised)
+  info: PhD (co-advised), since 2023
+  
 
 - name: Sherry Zhang
 #  photo: rock.jpg
