@@ -6,12 +6,12 @@
   education1: Sichuan University (Undergraduate, Biological Sciences & Software Engineering)
   education2: University of Georgia (PhD, Bioinformatics)
 
-- name: Jiaxi Geng
-  photo: jiaxi.jpg
-  info: PhD since 2025
-  email: Geng, Jiaxi <jiaxi.geng@emory.edu>
-  number_educ: 1
-  education1: Emory University (MPH, Biostatistics)
+# - name: Jiaxi Geng
+#   photo: jiaxi.jpg
+#   info: PhD since 2025
+#   email: Geng, Jiaxi <jiaxi.geng@emory.edu>
+#   number_educ: 1
+#   education1: Emory University (MPH, Biostatistics)
 
   
 - name: "This could be you !"
