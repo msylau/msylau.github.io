@@ -19,7 +19,7 @@ You will have the chance to work on cutting-edge research at the intersection of
 Interested applicants should email Dr. Max Lau with a brief statement of interest and a CV that includes undergraduate and/or master’s grades. A separate cover letter is not necessary.
 
 ### Applications for Postdoc positions
-We are not actively recruiting postdocs at the moment, but I’m happy to connect.
+We are recruiting 1 postdoc at the moment.
 
 ### Master projects for Emory University students
 If you are a Master’s student in our Biostatistics program looking for a thesis project, feel free to contact me via email.
