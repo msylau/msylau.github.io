@@ -1,4 +1,12 @@
 
+- title: "Toward AI foundation models for epidemics: Promise, challenges, and paths forward"
+  authors: "Lau, M.S.Y., Metcalf C.J.E., Liu Z., Grenfell T. B., Jin W.."
+  year: 2026
+  journal: "Proceedings of the National Academy of Sciences"
+  link: "https://www.pnas.org/doi/abs/10.1073/pnas.2526192123"
+  type: "journal"
+  tags: ["AI", "foundation model", "epidemic"]
+  
 - title: "ScITree: Scalable Bayesian inference of transmission tree from epidemiological and genomic data"
   authors: "Waddel, H., Koelle, K., & Lau, M. S. Y."
   year: 2025
