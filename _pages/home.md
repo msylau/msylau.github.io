@@ -13,7 +13,7 @@ style="width: 120px; height: 120px; border-radius: 50%; margin-right: 15px; bord
 <div>
 <h2 style="margin: 0;">Max Lau</h2>
 <p style="margin: 0;">
-Assistant Professor <br>
+Associate Professor <br>
 Department of Biostatistics and Bioinformatics (Primary) <br>
 Department of Computer Science (Secondary) <br>
 Department of Epidemiology (Secondary) <br>
